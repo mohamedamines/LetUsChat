@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "375646656576",
+    "firebase_url": "https://letuschat-8da41.firebaseio.com",
+    "project_id": "letuschat-8da41",
+    "storage_bucket": "letuschat-8da41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375646656576:android:c0fb2fd654fe6d58",
+        "android_client_info": {
+          "package_name": "com.sifi.mohamedamine.letuschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375646656576-ivum48u5l49al2ol4c4l9i050vhtgssj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sifi.mohamedamine.letuschat",
+            "certificate_hash": "7310620C1BEECAC7C82DF6FABF33F661657CD58D"
+          }
+        },
+        {
+          "client_id": "375646656576-3rbs8iegmunirrm4ts3lk26kb8bkt2e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiFpUPfSHX8Hun9gUDmvhSNXuh8SV5DAU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375646656576-3rbs8iegmunirrm4ts3lk26kb8bkt2e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

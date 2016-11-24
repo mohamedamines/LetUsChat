@@ -6,6 +6,9 @@ public class FriendlyMessage {
     private String mName;
     private String mPhotoUrl;
 
+    public FriendlyMessage() {
+    }
+
     public FriendlyMessage(String text, String name, String photoUrl) {
         mText = text;
         mName = name;
